@@ -1,0 +1,267 @@
+@media(max-width: 1440px) {
+    .navlink{
+        width: 850px;
+    }
+    .hero img{
+        width: 80%;
+    }
+}
+@media(max-width: 1200px) {
+    .block button {
+        width: 109px;
+        height: 35px;
+        font-size: 12px;
+    }
+    .navlink {
+        width: 590px;
+    }
+}
+@media(max-width: 1024px) {
+    .navlink{
+        width: 600px;
+    }
+    .hero-title h1 {
+        font-size: 30px;
+    }
+    .hero{
+        padding: 80px 0;
+    }
+    .welcome-title p {
+        font-size: 16px;
+    }
+    .welcome-title h1 {
+        font-size: 22px;
+    }
+    .navlink a {
+        font-size: 14px;
+    }
+    .navlin select{
+        font-size: 15px;
+    }
+    .hero-title p{
+        font-size: 15px;
+    }
+    .hero-title button {
+        width: 131px;
+        height: 43px;
+        font-size: 15px;
+    }
+    .hero img {
+        width: 50%;
+    }
+    .hello h1{
+        font-size: 25px;
+    }
+    .block p{
+        padding: 20px 0;
+    }
+    .footer h1{
+        font-size: 12px;
+    }
+    .welcome img{
+        width: 40%;
+    }
+}
+@media(max-width: 992px) {
+    .block p{
+        line-height: 30px;
+    }
+}
+@media(max-width: 768px) {
+    .navlink a {
+        padding: 10px;
+    }
+    .navlink {
+        width: 300px;
+    }
+    .hero{
+        flex-wrap: wrap;
+    }
+    .welcome {
+        flex-wrap: wrap;
+    }
+    .hello img{
+        width: 90%;
+    }
+    .block p {
+        padding: 20px 0;
+        font-size: 12px;
+    }
+    .block h1 {
+        font-size: 15px;
+    }
+    .contact{
+        width: 600px;
+    }
+}
+@media(max-width: 576px) {
+    .navlink {
+        width: 600px;
+    }
+    .hero-title h1 {
+        font-size: 25px;
+    }
+    .hero-title button {
+        width: 111px;
+        height: 33px;
+        font-size: 12px;
+    }
+    .navlink select{
+        font-size: 14px;
+    }
+    .hero img {
+        padding: 30px;
+    }
+    .welcome img {
+        width: 60%;
+        padding: 0 70px;
+    }
+    .welcome-title p {
+        padding: 0 15px;
+    }
+    .welcome-title h1 {
+        padding: 0 70px;
+    }
+    .hello{
+        padding: 40px 0;
+    }
+    .block p {
+        padding: 12px 0;
+        font-size: 11px;
+    }
+    .contact-left p {
+        font-size: 13px;
+    }
+    .contact-left h1 {
+        font-size: 15px;
+    }
+    .contact-right h1 {
+        font-size: 20px;
+    }
+    .contact-right a {
+        font-size: 13px;
+        padding: 2px 0;
+    }
+    .contact {
+        width: 500px;
+    }
+    .blocks{
+        gap: 25px;
+    }
+}
+@media(max-width: 450px) {
+    .hero-title h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .welcome {
+        padding: 10px 0;
+    }
+    .hero {
+        padding: 50px 0;
+    }
+    .hero-title p {
+        font-size: 12px;
+        text-align: center;
+    }
+    .hero-title button{
+        margin-left: 140px;
+    }
+    .navbar img{
+        width: 18%;
+    }
+    .navlink a {
+        font-size: 10px;
+    }
+    .navlink select {
+        font-size: 10px;
+    }
+    .hero img {
+        width: 90%;
+    }
+    .blocks{
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .contact img{
+        width: 35%;
+    }
+    .contact-left h1 {
+        font-size: 10px;
+    }
+    .contact-left p {
+        padding: 5px 0;
+        font-size: 10px
+    }
+    .contact-right a {
+        font-size: 10px;
+        padding: 1px 0;
+    }
+    .contact {
+        width: 400px;
+    }
+    .hello h1 {
+        font-size: 20px;
+    }
+    .welcome-title p {
+        padding: 0 20px;
+        font-size: 13px;
+    }
+    .welcome-title h1 {
+        font-size: 15px;
+    }
+}
+@media(max-width: 380px) {
+    .navbar img {
+        width: 10%;
+    }
+    .blocks{
+        gap: 30px;
+    }
+    .contact {
+        width: 340px;
+    }
+}
+@media(max-width: 320px) {
+    .navlink a {
+        font-size: 5px;
+    }
+    .hero-title button {
+        margin-left: 90px;
+    }
+    .welcome-title p {
+        padding: 0 30px;
+        font-size: 11px;
+    }
+    #contact {
+        padding: 40px 0;
+    }
+    .contact {
+        width: 290px;
+    }
+    .contact-right a {
+        font-size: 9px;
+    }
+    .hero-title button {
+        width: 90px;
+        height: 29px;
+        font-size: 10px;
+    }
+    .welcome-title h1{
+        font-size: 19px;
+    }
+    .block button {
+        width: 90px;
+        height: 30px;
+        font-size: 10px;
+    }
+    .hero img {
+        width: 70%;
+    }
+    #header{
+        margin: 20px 0;
+    }
+    #footer{
+
+    }
+}
